@@ -105,7 +105,7 @@ public class ObjectMethods {
 	/**
 	 * Timer class to used for Searching for objects.
 	 * 
-	 * @author n0265408
+	 *
 	 */
 	// Description("Timer class to used for Searching for objects.")
 	class Timer extends Thread {

@@ -1,4 +1,4 @@
-# Cuucmber-Insprint-Automation
+# Cucumber-Insprint-Smoke-Regression-Automation
 The objective is to build a light wight frame work capable of the in-sprint automaiton and Regression.  We focus to achive Parallel execution in sauce labs and detailed reports in Extent.
 The Page Object folder has one class file per object. If the application follows a common DOM naming pattern, we could pass the label as a parameter and then dynamically create the Xpath and identify the object locator. This way of object identification is very easy and successfull for Products like Guidewire Claim Center, PC and for Angular JS UI screens, reducing the number of Classes to be created if we follow  convenional Page object Model.
 The Soap Projects class had the methods to set properties to a SOAP Test and Execute SOAP test from Java.
